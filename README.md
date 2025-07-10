@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Everyone&fontAlign=70&fontAlignY=40&color=gradient)
+<div align="center">
+  📫 This page is currently being updated to showcase some of the fun and interesting projects I have made throughout the years. Follow to stay in the loop.
+</div>
+
 <!--
 **Cthaar/Cthaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
